@@ -1,0 +1,4 @@
+// create a .env file for the authSecret
+module.exports = {
+    authSecret: 'secret here'
+}
